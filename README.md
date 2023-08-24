@@ -8,3 +8,9 @@
 #pip install BeautifulSoup
 
 #You can use Spyder to run these scripts.
+
+#upload_to_server_and_unzip.py -> Connects to remote server, uploads zip, unzips, adds read write execute permissions to unzipped files and folder. 
+Following libraries are needed:
+pip install paramiko
+pip install time
+pip install random
