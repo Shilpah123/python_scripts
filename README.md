@@ -7,7 +7,7 @@
 #Go to Python directory that has the python.exe file. Open command prompt and execute the following command:
 #pip install BeautifulSoup
 
-#You can use Spyder to run these scripts.
+#You can use Ananconda Spyder to run these scripts.
 
 #upload_to_server_and_unzip.py -> Connects to remote server, uploads zip, unzips, adds read write execute permissions to unzipped files and folder. 
 Following libraries are needed:
