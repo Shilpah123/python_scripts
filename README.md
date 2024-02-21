@@ -28,3 +28,5 @@ Changes topic references in .ditamap files to lowercase and changes file referen
 Changes the extension of file reference in topics from xml to dita. 
 Changes the file extension from .xml to .dita and changes filename to lowercase. 
 
+#
+
